@@ -5,6 +5,7 @@
 | Bilgi | Değer |
 |-------|-------|
 | **Proje Adı** | Sosyal Ağ Analizi Uygulaması |
+| **Grup Numarası ve Üyeler** | Grup 2 - Emircan Demir |
 | **Ders** | Yazılım Geliştirme Laboratuvarı-I |
 | **Kurum** | Kocaeli Üniversitesi, Teknoloji Fakültesi, Bilişim Sistemleri Mühendisliği |
 | **Tarih** | Ocak 2026 |
