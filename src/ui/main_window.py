@@ -390,11 +390,7 @@ class MainWindow(QMainWindow):
             "Hakkında",
             """<h2>Sosyal Ağ Analizi</h2>
             <p>Versiyon 1.0.0</p>
-            <p>Kocaeli Üniversitesi<br>
-            Teknoloji Fakültesi<br>
-            Bilişim Sistemleri Mühendisliği</p>
-            <p>Yazılım Geliştirme Laboratuvarı-I<br>
-            Proje 2</p>
+            <p>Developed by Emircan Demir</p>
             <hr>
             <p>Graf algoritmalarını görselleştiren ve<br>
             sosyal ağ analizleri yapan bir uygulama.</p>"""

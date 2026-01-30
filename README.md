@@ -1,14 +1,5 @@
 # Sosyal Ağ Analizi Uygulaması
 
-## Proje Bilgileri
-
-| Bilgi | Değer |
-|-------|-------|
-| **Proje Adı** | Sosyal Ağ Analizi Uygulaması |
-| **Grup Numarası ve Üyeler** | Grup 2 - Emircan Demir |
-| **Ders** | Yazılım Geliştirme Laboratuvarı-I |
-| **Kurum** | Kocaeli Üniversitesi, Teknoloji Fakültesi, Bilişim Sistemleri Mühendisliği |
-| **Tarih** | Ocak 2026 |
 ---
 
 ## 1. Giriş
@@ -710,8 +701,4 @@ Renk açıklamaları sol panelin altındaki "Renk Açıklaması" bölümünde g�
 
 ## Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
-
-**Kocaeli Üniversitesi - Teknoloji Fakültesi - Bilişim Sistemleri Mühendisliği**
-
-
+MIT License - Emircan Demir

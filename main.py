@@ -2,11 +2,6 @@
 """
 Social Network Analyzer - Main Application Entry Point
 
-Kocaeli Üniversitesi
-Teknoloji Fakültesi - Bilişim Sistemleri Mühendisliği
-Yazılım Geliştirme Laboratuvarı-I
-Proje 2
-
 A social network analysis application that models user relationships
 as a graph structure and implements various graph algorithms.
 """
@@ -31,7 +26,7 @@ def main():
     # Set application metadata
     app.setApplicationName("Sosyal Ağ Analizi")
     app.setApplicationVersion("1.0.0")
-    app.setOrganizationName("Kocaeli Üniversitesi")
+    app.setOrganizationName("Emircan Demir")
     
     # Set default font
     font = QFont("Segoe UI", 10)
